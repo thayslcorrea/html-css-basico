@@ -32,10 +32,11 @@ A proposta consiste na criação de uma página web utilizando apenas **HTML5** 
  ┣ 📜 index.html
  ┣ 📜 style.css
  ┗ 📂 assets
+```
 
 ---
 
-# Como Executar o Projeto
+# 🚀 Como Executar o Projeto
 1️⃣ Clone o repositório: git clone https://github.com/seu-usuario/html-css-basico.git
 2️⃣ Acesse a pasta do projeto: cd html-css-basico
 3️⃣ Abra o projeto no navegador
@@ -43,5 +44,7 @@ A proposta consiste na criação de uma página web utilizando apenas **HTML5** 
 Abra o arquivo index.html diretamente no navegador.
 
 
-# Interface do Projeto
+# 🖼️ Interface do Projeto
 
+![Print do Projeto1](./assets/interface1.png)
+![Print do Projeto2](./assets/interface2.png)
