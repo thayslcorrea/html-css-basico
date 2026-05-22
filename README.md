@@ -6,14 +6,14 @@ Este projeto foi desenvolvido como atividade prática para a disciplina de **Des
 
 A proposta consiste na criação de uma página web utilizando apenas **HTML5** e **CSS3**, com foco na estruturação de conteúdo, estilização visual e aplicação dos conceitos fundamentais do desenvolvimento web.
 
----
+--
 
 # 📌 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 
----
+--
 
 # 🎯 Objetivos do Projeto
 
@@ -23,7 +23,7 @@ A proposta consiste na criação de uma página web utilizando apenas **HTML5** 
 - Desenvolver familiaridade com Git e GitHub;
 - Entender a estrutura básica de um projeto front-end.
 
----
+--
 
 # 📁 Estrutura do Projeto
 
@@ -34,7 +34,7 @@ A proposta consiste na criação de uma página web utilizando apenas **HTML5** 
  ┗ 📂 assets
 ```
 
----
+--
 
 # 🚀 Como Executar o Projeto
 1️⃣ Clone o repositório: git clone https://github.com/seu-usuario/html-css-basico.git
@@ -43,6 +43,7 @@ A proposta consiste na criação de uma página web utilizando apenas **HTML5** 
 
 Abra o arquivo index.html diretamente no navegador.
 
+-- 
 
 # 🖼️ Interface do Projeto
 
