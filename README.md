@@ -2,6 +2,8 @@
 
 ## 🌐 Página Web Básica — Projeto Front-end
 
+Link do projeto: https://html-css-basic-i1oudtxua-thayslcorreas-projects.vercel.app/
+
 Este projeto foi desenvolvido como atividade prática para a disciplina de **Desenvolvimento Front-end** do curso integrado de **Desenvolvimento de Sistemas**.
 
 A proposta consiste na criação de uma página web utilizando apenas **HTML5** e **CSS3**, com foco na estruturação de conteúdo, estilização visual e aplicação dos conceitos fundamentais do desenvolvimento web.
